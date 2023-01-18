@@ -1,0 +1,27 @@
+_repo: The-sinking-of-the-Titanic-and-other-poems_69761
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stahl, C. Victor
+    gutenberg_agent_id: '55407'
+    url: http://www.gutenberg.org/2009/agents/55407
+description: ''
+gutenberg_issued: '2023-01-10'
+identifiers:
+  gutenberg: '69761'
+language: en
+pgterms:marc904: https://archive.org/details/sinkingoftitanic00stah/page/n5/mode/2up
+pgterms:marc905: 20220307070900stahl
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: 'United States: Sherman, French & Company,1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The sinking of the Titanic, and other poems
+url: http://www.gutenberg.org/ebooks/69761
